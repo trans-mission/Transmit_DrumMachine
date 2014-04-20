@@ -12,7 +12,12 @@
 #which fetches all required deps
  
 /node_modules
- 
+
+########################
+# BOWER
+########################
+/bower_components
+
 ########################
 # COMPILED SOURCE
 ########################

@@ -1,0 +1,9 @@
+{
+  "name": "Transmit_DrumMachine",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Trans-Mission/Transmit_DrumMachine",
+  "authors": [
+    "mmansion <mikhail@transmission.io>"
+  ],
+  "license": "MIT"
+}
